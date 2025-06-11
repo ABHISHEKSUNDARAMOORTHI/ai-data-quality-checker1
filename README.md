@@ -1,8 +1,5 @@
 # 📊🧠 AI-Powered Data Quality & Anomaly Explainer
 
-![Data Quality Dashboard Screenshot](https://via.placeholder.com/800x400?text=Screenshot+of+Streamlit+App)
-
----
 
 ## ✨ Overview
 
